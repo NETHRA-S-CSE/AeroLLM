@@ -1,0 +1,207 @@
+Q                                                 Advisory
+US. Department                                         ca
+
+of treponton
+Federal Aviation
+Administration
+                                                  Circular
+
+Subject:     PREVENTIVE MAINTENANCE              Date: 10/28/83                ACNo; 43-124
+                                                 Initiated by;   AWS-340       Change:
+
+
+
+
+1.   PURPOSE.      This advisory circular (AC) provides information concerning
+preventive maintenance, who may perform it, the standards of performance
+applicable to it, authority for approving aircraft for return to service, and
+the applicable recording requirements.  This AC also clarifies those areas most
+frequently misunderstood in the past, and explains the recent changes in the
+rules concerning preventive maintenance.
+
+2.   CANCELLATION,      AC 43-12, Preventive Maintenance, dated July 16,           1976,   is
+canceled.
+
+
+3.   RELATED FEDERAL AVIATION REGULATIONS (FAR).              Part 1, Definitions and
+Abbreviations, Section 1.1;         Part 43, Maintenance, Preventive Maintenance,
+Rebuilding, and Alteration; Part 61, Certification: Pilots and Flight
+Instructors;       and Part   145, Repair Stations.
+
+
+4,   PREVENTIVE MAINTENANCE,
+
+
+     a.    The holders of mechanic and repairman certificates, persons working
+under the supervision of these mechanics and repairmen, repair stations
+certificated under Part 145, and air carriers certificated under Parts 121, 127,
+and 135, are authorized to perform preventive maintenance.                These persons are
+also authorized to perform other maintenance.               Therefore,   it is of little
+consequence to them how a particular function is classified,               since they are
+authorized to perform the function as either preventive maintenance or as other
+maintenance.        Further, the procedures used in approving for return to service
+and recording are identical.         This AC will, therefore, consider preventive
+maintenance from the owners/operators point of view.
+
+     b.    FAR Part 1, Section 1.1, defines preventive maintenance as", 2.
+simple or minor preservation operations and the replacement of small standard
+parts not involving complex assembly operations."
+
+         (1)  FAR Part 43, Appendix A, paragraph (c) contains the list of those
+functions determined by the FAA to meet this definition.  If a function does not
+appear in this list, it is not preventive maintenance.               Further, because of
+differences in aircraft, a function may be preventive maintenance on oe
+aircraft and not on another. To provide for this, paragraph (c) contains the
+limitation,      “provided it does not involve complex assembly operations" on the
+aircraft involved.  Owners and pilots mist use good judgment in determining that
+a specific function may appropriately be classified as preventive maintenance.
+                                                                                 10/28/83
+ AC 43-12A
+
+
+
+
+            (2)   A Pilot may not perform preventive maintenance on aircraft used
+under Parts 121,     127, or 135,   even when the pilot owns the aircraft.
+
+
+    c.  Persons authorized to perform preventive maintenance.  In addition to
+those persons listed in paragraph 4a of this AC, Section 43.3(g) authorizes the
+holder of a pilot certificate issued under Part 61 to perform preventive
+maintenance.  Section 43.7 limits the privilege to persons holding at least a
+private pilot certificate and Section 43.5 prohibits operation of the aircraft
+unless approved for return to service,        Further, pilots may only approve for
+return to service preventive maintenance which they themselves have
+accomplished.
+
+
+      a.   Applicable performance standards.
+
+           (1)    FAR 43,13 requires preventive maintenance to be done using
+methods, techniques, and practices acceptable to the Administrator. These are
+normally set forth in the manufacturer's maintenance manuals; however, some may
+be found in AC's published by the FAA,
+
+            (2)   FAR 43.13 requires the use of the tools, equipment, and test
+apparatus necessary to assure completion of       the work   in accordance with accepted
+industry practices.      This means that the proper tools and test apparatus must be
+used.  Normally these are listed as part of any FAA-approved manufacturer's
+maintenance literature.
+
+
+            (3)   FAR 43.13 also requires that any special equipment recommended by
+the manufacturer or its equivalent must be used in a manner acceptable to the
+Administrator.     This provision is more directly applicable to maintenance than
+preventive maintenance.  However, it may come into play.         Therefore, owners and
+pilots should be aware of it.
+
+        (4)   Additionally, Section 43.13 requires that the work performed and
+the materials used are to be such as to ensure that, when the work is finished,
+the item worked on is at least equal to its original condition.  Caution must be
+exercised because some functions which appear to be simple tasks may, in fact,
+be quite complicated.  Care should be taken to ensure that the manufacturer's
+instructions are understood, the function is within the individual's capability,
+within the definition of preventive maintenance, and that it is listed in
+paragraph (c) of Appendix A of Part 43.
+
+     e. Recording preventive maintenance. Preventive maintenance must be
+recorded in accordance with Section 43.9 of FAR Part 43. This is done by
+entering in the maintenance record, of the item worked on, the following:
+
+          (1)  "A description (or reference to data acceptable to the
+Administrator) of the work performed."  This should indicate what was
+done and how it was done.  This is normally quite simple for preventive
+maintenance; however, if the description is extensive, reference to documents
+containing that description is acceptable.  These may be manufacturer's
+
+
+
+
+  5                                                                      Par
+                                                                           4
+    10/28/83                                                                     aC 43-12A
+
+
+
+    manuals, AC's, or other documents or references containing data acceptable to
+    the Administrator.           If documents other than types which are in common use are
+    referenced, the document should be made a part of the maintenance record, as
+    required by Section 43.9(a)(1).
+
+
+                 (2)     "The date of completion of the work performed.”       This is self
+    explanatory and is the date on which the entry is made, as required by Section
+    43.9(a)(2).
+
+                 (3)    The kind of airman certificate exercised.         When preventive
+    maintenance is performed as authorized in Section 43.3(q), the certificate may
+    be indicated in any manner which would be clear to the reader. For example: PP,
+    CP, or ATP might be used to indicate private, commercial, or airline transport
+    pilot, respectively.          The certificate number
+                                                      is that number displayed on the
+    certificate being exercised. Affixing a signature to the entry, which describes
+    the work accomplished, constitutes approval for return to service, as required
+    by Section 43.9(a)(4).
+
+
+         NOTE:   Since owners/pilots are not authorized to approve work
+         accomplished by others, Section 43.9(a)(3) is not applicable when
+         preventive maintenance is performed by the holder of a pilot's
+         certificate.   The holder of the pilot's certificate doing the work
+         is the only person who can sign the approval for return to service.
+
+
+        f.   The changes to Section 43.9 which require preventive maintenance to be
+    recorded became effective October 15, 1982 (Amendment 43-23, 47 FR 41076;
+    September 16, 1982).  On this same date, the list of items considered to be
+    preventive maintenance in REL A of Part 43 was expanded.       Two of the items
+    warrant discussion,©
+
+            (1)  Item 25 (Part 43, Appendix A, paragraph (c)).  This item deals with
+    the assembly of gliders and has been on the list of preventive maintenance for
+    some time.     The new recording requirements, however, significantly affects this
+    item,  The recording requirements are intended to provide continuity in the
+    Maintenance record and to ensure that the person performing preventive
+    maintenance assumes responsibility for the work performed.  An entry for the
+    assembly after required inspection ensures this assumption of responsibility.
+    Repeated entries are required each time a person assembles the aircraft for
+-   Operation. The assembly must be recorded and the aircraft approved for return
+    to service in accordance with Section 43.9 by a person authorized in
+    Section 43.7.
+
+             (2)       Item 28    (Part 43, Appendix A, paragraph (c)).    This item deals with
+    the installation of balloon baskets and burners specifically designed for quick
+    removal and installation.  Such disassembly and assembly is necessary to
+    facilitate transporting the balloon either to the launch site or after a flight
+    is terminated.       The assembly operation is preventive maintenance and subject to
+    the provisions of Sections 43.3, 43.7, and 43.9. As required by Section 43.1(b),
+    entries are required for assembly operations on all balloons except those
+    certificated in the experimental category which have not been previously
+    certificated in another category.
+
+
+
+
+     Par 4                                                                            3
+AC 43-12A                                                                   10/28/83
+
+
+
+    g-  Items 6 and 23 (Part 43, Appendix A, paragraph (c)).  These items
+permit the draining and reservicing of oil, and the removal, cleaning and
+reinstallation of oil screens, filters, and strainers in an aircraft oil
+system to be done as preventive maintenance, and are subject to the provisions
+of Sections 43.13(a) and (b).
+
+
+
+
+ Oboe
+Joseph A.   Pontecorvo
+Acting Director of Airworthiness
+
+
+
+
+  4                                                               Par 4
+

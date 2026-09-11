@@ -3,11 +3,11 @@
 __pycache__/
 *.pyc
 
-# Datasets
-processed/
-*.csv
-*.xlsx
-*.xls
+# Raw / source datasets - do not commit
+AeroLLM_Data/raw/
+AeroLLM_Data/asrs_reports/
+AeroLLM_Data/faa_sdr_all.csv
+AeroLLM_Data/metadata/
 
 # Generated RAG data
 backend/rag/data/

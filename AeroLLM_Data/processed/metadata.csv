@@ -1,0 +1,18 @@
+document_id,dataset,document_name,document_type,authority,source_file,status
+ASRS_TRAIN,ASRS,NASA ASRS Training Data,Incident Reports,NASA,ASRS/asrs_train.csv,cleaned
+ASRS_VALIDATION,ASRS,NASA ASRS Validation Data,Incident Reports,NASA,ASRS/asrs_validation.csv,cleaned
+ASRS_TEST,ASRS,NASA ASRS Test Data,Incident Reports,NASA,ASRS/asrs_test.csv,cleaned
+FAA_SDR,FAA_SDR,FAA Service Difficulty Reports,Maintenance Reports,FAA,FAA_SDR/faa_sdr_clean.csv,cleaned
+NTSB_AIRCRAFT,NTSB,NTSB Aircraft Records,Accident Records,NTSB,NTSB/aircraft_clean.csv,cleaned
+NTSB_EVENTS,NTSB,NTSB Event Records,Accident Records,NTSB,NTSB/events_clean.csv,cleaned
+NTSB_FINDINGS,NTSB,NTSB Findings,Accident Findings,NTSB,NTSB/findings_clean.csv,cleaned
+NTSB_NARRATIVES,NTSB,NTSB Narratives,Accident Narratives,NTSB,NTSB/narratives_clean.csv,cleaned
+FAA_AC_120_16G,FAA_AC,AC 120-16G,Advisory Circular,FAA,FAA_Advisory_Circulars/AC_120-16G_clean.txt,cleaned
+FAA_AC_120_72A,FAA_AC,AC 120-72A,Advisory Circular,FAA,FAA_Advisory_Circulars/AC_120-72A_clean.txt,cleaned
+FAA_AC_121_22D,FAA_AC,AC 121-22D,Advisory Circular,FAA,FAA_Advisory_Circulars/AC_121-22D_clean.txt,cleaned
+FAA_AC_20_77B,FAA_AC,AC 20-77B,Advisory Circular,FAA,FAA_Advisory_Circulars/AC_20-77B_clean.txt,cleaned
+FAA_AC_43_12A,FAA_AC,AC 43-12A,Advisory Circular,FAA,FAA_Advisory_Circulars/AC_43-12A_clean.txt,cleaned
+FAA_AC_43_216A,FAA_AC,AC 43-216A,Advisory Circular,FAA,FAA_Advisory_Circulars/AC_43-216A_clean.txt,cleaned
+FAA_HB_30B,FAA_HANDBOOK,FAA-H-8083-30B General,Aviation Maintenance Handbook,FAA,FAA_Handbooks/FAA-H-8083-30B_General_clean.txt,cleaned
+FAA_HB_31B,FAA_HANDBOOK,FAA-H-8083-31B Airframe,Aviation Maintenance Handbook,FAA,FAA_Handbooks/FAA-H-8083-31B_Aviation_Maintenance_Technician_Handbook_clean.txt,cleaned
+FAA_HB_32B,FAA_HANDBOOK,FAA-H-8083-32B Powerplant,Aviation Maintenance Handbook,FAA,FAA_Handbooks/amt_powerplant_handbook_clean.txt,cleaned
